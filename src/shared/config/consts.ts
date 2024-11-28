@@ -1,0 +1,1 @@
+export const API_URl = 'https://api.jikan.moe/v4';
